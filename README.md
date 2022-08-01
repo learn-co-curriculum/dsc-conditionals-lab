@@ -1,11 +1,12 @@
-
 # Control Flow: Conditionals - Lab
 
 ## Introduction
 Now that you have been introduced to conditionals, let's put your knowledge to test and create some conditional statements that selectively assign values to variables based on whether they pass the conditions we set.
 
 ## Objectives
+
 You will be able to:
+
 * Use Python conditional statements
 
 ## Instructions
