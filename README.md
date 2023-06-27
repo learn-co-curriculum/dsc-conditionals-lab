@@ -83,4 +83,4 @@ else:
 
 ## Summary
 
-Great! In this lab we saw how to use our knowedge of conditionals to selectively assign values based on a condition. We will start integrating conditionals in many more ways in our code and we will start to see how useful they can become in more complex problems.
+Great! In this lab we saw how to use our knowledge of conditionals to selectively assign values based on a condition. We will start integrating conditionals in many more ways in our code and we will start to see how useful they can become in more complex problems.
